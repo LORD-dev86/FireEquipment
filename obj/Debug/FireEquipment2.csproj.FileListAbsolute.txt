@@ -1,0 +1,188 @@
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\FireEquipment2.exe.config
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\FireEquipment2.exe
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\FireEquipment2.pdb
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\Npgsql.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Buffers.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Memory.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Text.Json.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.ValueTuple.dll
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\Npgsql.pdb
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\Npgsql.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Buffers.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Memory.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Text.Json.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\02399915\source\repos\FireEquipment2\bin\Debug\System.ValueTuple.xml
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.csprojAssemblyReference.cache
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.Form1.resources
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.Properties.Resources.resources
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.csproj.GenerateResource.cache
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.csproj.CoreCompileInputs.cache
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.csproj.CopyComplete
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.exe
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.pdb
+C:\Users\02399915\source\repos\FireEquipment2\obj\Debug\FireEquipment2.Form2.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.AddForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.LoginForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.MainUserForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.ShowForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.Properties.Resources.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.csproj.GenerateResource.cache
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.csproj.CoreCompileInputs.cache
+D:\Файлы к практике\FireEquipment2\bin\Debug\FireEquipment2.exe.config
+D:\Файлы к практике\FireEquipment2\bin\Debug\FireEquipment2.exe
+D:\Файлы к практике\FireEquipment2\bin\Debug\FireEquipment2.pdb
+D:\Файлы к практике\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\Npgsql.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Buffers.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Memory.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Numerics.Vectors.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Text.Encodings.Web.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Text.Json.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.ValueTuple.dll
+D:\Файлы к практике\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\Npgsql.pdb
+D:\Файлы к практике\FireEquipment2\bin\Debug\Npgsql.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Buffers.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Memory.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Numerics.Vectors.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Text.Encodings.Web.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Text.Json.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Файлы к практике\FireEquipment2\bin\Debug\System.ValueTuple.xml
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.csproj.CopyComplete
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.exe
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.pdb
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.csprojAssemblyReference.cache
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.MainAdminForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.MainManagerForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.ShowAdminForm.resources
+D:\Файлы к практике\FireEquipment2\obj\Debug\FireEquipment2.AddAdminForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\FireEquipment2.exe.config
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\FireEquipment2.exe
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\FireEquipment2.pdb
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\Npgsql.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Buffers.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Memory.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Text.Json.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.ValueTuple.dll
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\Npgsql.pdb
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\Npgsql.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Buffers.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Memory.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Text.Json.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\bin\Debug\System.ValueTuple.xml
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.csproj.AssemblyReference.cache
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.AddAdminForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.AddForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.LoginForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.MainAdminForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.MainManagerForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.MainUserForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.ShowAdminForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.ShowForm.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.Properties.Resources.resources
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.csproj.GenerateResource.cache
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.csproj.CoreCompileInputs.cache
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.csproj.CopyComplete
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.exe
+C:\Users\lordd\OneDrive\Рабочий стол\Диплом\FireEquipment2\obj\Debug\FireEquipment2.pdb
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\FireEquipment2.exe.config
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\FireEquipment2.exe
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\FireEquipment2.pdb
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Npgsql.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Buffers.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Memory.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Text.Json.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.ValueTuple.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Npgsql.pdb
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Npgsql.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Buffers.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Memory.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Text.Json.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.ValueTuple.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.csproj.AssemblyReference.cache
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.AddAdminForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.AddForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.LoginForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.MainAdminForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.MainManagerForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.MainUserForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.ShowAdminForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.ShowForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.Properties.Resources.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.csproj.GenerateResource.cache
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.csproj.CoreCompileInputs.cache
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.csproj.CopyComplete
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.exe
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.pdb
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.ShowCheckForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\obj\Debug\FireEquipment2.AddCheckForm.resources
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Xceed.Document.NET.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Xceed.Words.NET.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.barcodes.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.commons.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.forms.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.io.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.kernel.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.layout.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.pdfa.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.sign.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.barcodes.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.commons.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.forms.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.io.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.kernel.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.layout.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.pdfa.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\itext.sign.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\evilo\OneDrive\Документы\Диплом\Код\FireEquipment2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
